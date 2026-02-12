@@ -88,4 +88,4 @@ O candidato deve entregar:
 | Segurança básica aplicada                  | 15%       |
 | Documentação completa                      | 10%       |
 
-**⏳ Prazo:** 20 de fevereiro
+**⏳ Prazo:** 20 de fevereiro até às 17 horas enviara para o e-mail cessuff.vep.vei@id.uff.br
