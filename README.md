@@ -2,6 +2,7 @@
 ## Objetivo
 - Criar uma aplicação web completa que permita usuários se cadastrarem, autenticarem, e gerenciarem uma lista de tarefas.
 - O desafio cobre banco de dados → backend → frontend, segurança básica, e deve ser entregue via GitHub.
+- Javascript (Node+React)
 
 ## Requisitos Funcionais
 ### Banco de Dados
@@ -88,4 +89,8 @@ O candidato deve entregar:
 | Segurança básica aplicada                  | 15%       |
 | Documentação completa                      | 10%       |
 
-**⏳ Prazo:** 20 de fevereiro até às 17 horas enviara para o e-mail cessuff.vep.vei@id.uff.br
+**⏳ Prazo:** 12 de março até às 17 horas enviara para o e-mail:
+
+**Para:** cessuff.vep.vei@id.uff.br
+
+**CC:** rhaiany_souza@id.uff.br
